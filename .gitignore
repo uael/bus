@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
 target/
+classes/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -24,4 +25,4 @@ buildNumber.properties
 hs_err_pid*
 
 .idea/
-
+*.iml
