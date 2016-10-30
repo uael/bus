@@ -1,1 +1,22 @@
-{"t":{"nickname":"t","type":"AGENT"}}
+{
+  "abel": {
+    "nickname": "abel",
+    "type": "AGENT"
+  },
+  "michelle": {
+    "nickname": "michelle",
+    "type": "DEFAULT"
+  },
+  "rick": {
+    "nickname": "rick",
+    "type": "PRODUCER"
+  },
+  "jackie": {
+    "nickname": "jackie",
+    "type": "DEFAULT"
+  },
+  "bast": {
+    "nickname": "bast",
+    "type": "AGENT"
+  }
+}
